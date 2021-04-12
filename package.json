@@ -1,6 +1,5 @@
 {
   "name": "index_json",
-  "author": "sooraj-hirecraft",
   "dependencies": {
     "express": "^4.14.0"
   },
